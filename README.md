@@ -56,3 +56,5 @@ Benefits of the Project
 •	Develops skills in data preprocessing, deep learning model design, and evaluation.
 •	Demonstrates real-world applications of AI for visual problem-solving.
 By working on this project, you'll gain an understanding of the challenges and methodologies involved in solving computer vision problems and contribute to developing intelligent systems capable of interpreting the visual world.
+![Screenshot_(664) 1](https://github.com/user-attachments/assets/66e0e5d6-a9ad-42b7-8b76-69c6e5de5174)
+![WhatsApp Image 2024-12-30 at 12 18 11_b69230b3](https://github.com/user-attachments/assets/0e232eaa-4b97-40ac-a8f5-f33e3cbe8522)
